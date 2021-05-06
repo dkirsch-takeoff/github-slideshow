@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Word of my demise is greatly exaggerated
 Use the left arrow to go back!
